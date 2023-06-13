@@ -33,7 +33,7 @@
 
 .logo {
   width: 228px;
-  height: 32px
+  height: 32px;
 }
 .logo__place_header {
   position: absolute;
@@ -217,7 +217,7 @@
 .kaufman {
   position: relative;
   background-color: #1f1f1f;
-  overflow: hidden
+  overflow: hidden;
 }
 .section-title_theme_dark {
   line-height: 1.15;
