@@ -238,11 +238,11 @@
   font-size: 18px;
   font-weight: normal;
 }
-.kaufman__tringle {
+.kaufman__triangle {
   background-image: url("../images/kaufman-triangle.svg");
   position: absolute;
   right: -210px;
-  bottom: -150px;
+  top: 0;
   z-index: -1;
   width: 877px;
   height: 877px;
@@ -275,7 +275,7 @@
   height: 32px;
 }
 
-.footer__column-author {
+.footer__author {
   margin: 0;
   color: #fff;
   padding: 18px 0 18px 0;
