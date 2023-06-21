@@ -5,9 +5,11 @@
   flex-direction: column;
 
 }
+
 .cards__item:first-of-type {
   margin-left: 0;
 }
+
 .cards__item:nth-child(4n) {
   margin-left: 0;
 }
